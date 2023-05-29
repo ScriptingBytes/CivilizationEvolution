@@ -1,4 +1,4 @@
-var GameStorage = {
+const GameStorage = {
     Evolution: {},
     Resources: {},
     Research: {},
@@ -6,7 +6,7 @@ var GameStorage = {
     Stats: {start:Date.now(),days:0,tdays:0}
 }
 
-var Tabs = {
+const Tabs = {
     Evolve: {},
     City: {},
     Research: {},
