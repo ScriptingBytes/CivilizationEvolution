@@ -1,5 +1,5 @@
 # Civilization Evolution
-A text-based game where you evolve through different era
+A text-based game where you evolve through different eras.
 
 ## About
 
@@ -9,4 +9,4 @@ Civilization Evolution combines elements of a clicker with an idler and has lots
 What Evolved Civilization will you create?
 
 ## Language
-Strictly JavaScript
+Strictly JavaScript with some HTML.
